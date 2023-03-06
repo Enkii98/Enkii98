@@ -1,4 +1,4 @@
-<img width="800 src="https://64.media.tumblr.com/7696b08be336171baef4a005d1426e1a/0727fe47787d0a0c-a6/s1280x1920/99c98528844238bc293e610560786ca598d7602b.gifv">
+<img align="center" width="800 src="https://64.media.tumblr.com/7696b08be336171baef4a005d1426e1a/0727fe47787d0a0c-a6/s1280x1920/99c98528844238bc293e610560786ca598d7602b.gifv"/>
 <h1 align="center">Hi 👋, I'm Mattia Cannizzaro</h1>
 <h3 align="center">An aspiring Back-end Developer from Italy</h3>
 
@@ -8,7 +8,6 @@
 
 - ⚡ Fun fact **I think I'm very versatile**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
