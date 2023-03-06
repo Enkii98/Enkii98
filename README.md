@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/7696b08be336171baef4a005d1426e1a/0727fe47787d0a0c-a6/s1280x1920/99c98528844238bc293e610560786ca598d7602b.gifv)]
+![MasterHead](https://64.media.tumblr.com/7696b08be336171baef4a005d1426e1a/0727fe47787d0a0c-a6/s1280x1920/99c98528844238bc293e610560786ca598d7602b.gifv)
 <h1 align="center">Hi 👋, I'm Mattia Cannizzaro</h1>
 <h3 align="center">An aspiring Back-end Developer from Italy</h3>
 
